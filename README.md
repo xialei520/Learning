@@ -6,4 +6,4 @@
 |------|------|------|
 | 苹果 | 1    | nice |
 | 橘子 | 2    | job  |
-[1]http://www.baidu.com
+[1]:http://www.baidu.com
