@@ -2,9 +2,9 @@
 
 ## 库 / aip
 
-| [underscore][1] | 个数 | 备注 |
+| article | article | article |
 |------|------|------|
-| 苹果 | 1    | nice |
+| [underscore][1] | 1    | nice |
 | 橘子 | 2    | job  |
 
 ## 框架
