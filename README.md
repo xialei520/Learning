@@ -10,4 +10,4 @@
 
 
 
-[1]: https://github.com/xialei520/Learning/issues/new
+[1]: https://github.com/xialei520/Learning/issues/1
