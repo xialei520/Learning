@@ -10,4 +10,4 @@
 
 
 
-[1]: http://www.baidu.com
+[1]: https://github.com/xialei520/Learning/issues/new
